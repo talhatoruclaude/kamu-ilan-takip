@@ -1,0 +1,35 @@
+name: ilan-tara
+
+on:
+  schedule:
+    - cron: "0 5,11,17 * * *"   # Turkiye saati 08:00, 14:00, 20:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ilan-tara
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: OCR araclari (resim PDF'ler icin)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-tur poppler-utils
+      - run: pip install -q pypdf
+      - name: Ilanlari tara
+        run: python tara.py
+      - name: Sayfayi kaydet
+        run: |
+          git config user.name "ilan-tara-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A docs
+          git diff --cached --quiet || git commit -m "Tarama $(TZ=Europe/Istanbul date '+%d.%m.%Y %H:%M')"
+          git push
