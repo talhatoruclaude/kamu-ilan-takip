@@ -167,13 +167,16 @@ def main():
         raise SystemExit("Ana sayfadan ilan listesi alınamadı (site engellemiş olabilir).")
 
     sonuc, kapali_sayi, hatali = [], 0, 0
+    tum = []  # taranan her ilan + ne oldugu (sayfada "kendin kontrol et" listesi)
     tutulan_pdf = set()
     for baslik, link in ilanlar.items():
         bas, bit = bitis_tarihi(baslik)
         if bit and bit < SIMDI:
+            tum.append((baslik, "Süresi dolmuş"))
             continue
         if ATLA.search(baslik):
             kapali_sayi += 1
+            tum.append((baslik, "Önlisansa uygun değil (akademik / uzman / meslek kadrosu)"))
             continue
         try:
             b = op.open("https://kamuilan.sbb.gov.tr/" + link, timeout=90).read()
@@ -181,11 +184,15 @@ def main():
         except Exception as e:
             hatali += 1
             print("HATA", baslik, e)
+            tum.append((baslik, "İndirilemedi, sonraki taramada tekrar denenecek"))
             continue
         kat, gerekce, ayrinti = degerlendir(baslik, metin)
         if kat == "kapali":
             kapali_sayi += 1
+            tum.append((baslik, "İlan okundu: önlisans kadrosu yok"))
             continue
+        tum.append((baslik, {"uyan": "✅ UYUYOR", "kontrol": "⚠️ Kontrol et",
+                             "elenen": "❌ " + gerekce}[kat]))
         anahtar = hashlib.md5(baslik.encode("utf-8")).hexdigest()[:10]
         ilk = durum["ilk_gorulme"].setdefault(anahtar, SIMDI.strftime("%Y-%m-%d"))
         pdf_ad = ""
@@ -206,8 +213,11 @@ def main():
 
     durum["son_tarama"] = SIMDI.strftime("%d.%m.%Y %H:%M")
     durum["osym_tercih"] = osym_kontrol(op)
+    durum.setdefault("gecmis", []).append({"zaman": durum["son_tarama"], "toplam": len(ilanlar),
+        "uyan": sum(x["kat"] == "uyan" for x in sonuc)})
+    durum["gecmis"] = durum["gecmis"][-15:]
     json.dump(durum, open(DURUM, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    sayfa_yaz(sonuc, kapali_sayi, hatali, len(ilanlar), durum)
+    sayfa_yaz(sonuc, kapali_sayi, hatali, len(ilanlar), durum, tum)
     print(f"{len(ilanlar)} ilan, uyan={sum(x['kat']=='uyan' for x in sonuc)}, "
           f"kontrol={sum(x['kat']=='kontrol' for x in sonuc)}, elenen={sum(x['kat']=='elenen' for x in sonuc)}, "
           f"kapali={kapali_sayi}, hatali={hatali}")
@@ -231,7 +241,7 @@ def kart(x):
             f'<h3>{e(x["baslik"])}</h3><p>{e(x["gerekce"])}</p><p class="tarih">{tarih}</p>{pdf}{ayr}</div>')
 
 
-def sayfa_yaz(sonuc, kapali_sayi, hatali, toplam, durum):
+def sayfa_yaz(sonuc, kapali_sayi, hatali, toplam, durum, tum=()):
     sira = lambda x: (0 if x["sehir"] else 1, x["kalan"])
     uyan = sorted([x for x in sonuc if x["kat"] == "uyan"], key=sira)
     kontrol = sorted([x for x in sonuc if x["kat"] == "kontrol"], key=sira)
@@ -250,6 +260,17 @@ def sayfa_yaz(sonuc, kapali_sayi, hatali, toplam, durum):
         icerik = "".join(kart(x) for x in liste) if liste else f'<p class="bos">{bos}</p>'
         return f'<h2>{baslik} <span class="sayi">{len(liste)}</span></h2>{icerik}'
 
+    e = html.escape
+    satirlar = "".join(f'<li><b>{e(b)}</b><br><span class="neden">{e(n)}</span></li>' for b, n in tum)
+    gecmis = "".join(f'<li>{e(g["zaman"])}: {g["toplam"]} ilan tarandı, {g["uyan"]} uyan</li>'
+                     for g in reversed(durum.get("gecmis", [])))
+    kanit = f'''<h2>🔍 Kendin kontrol et</h2>
+<div class="kart bilgi"><p>Bu sayfa ilanları devletin resmî ilan sitesi <b>kamuilan.sbb.gov.tr</b>'den alır.
+Aşağıda taranan <b>{toplam}</b> ilanın hepsi ve her birine ne karar verildiği yazıyor.
+Siteyi açıp listeyi karşılaştırabilirsin.</p>
+<a class="dugme" href="https://kamuilan.sbb.gov.tr/" target="_blank" rel="noopener">Resmî ilan sitesini aç</a>
+<details><summary>Taranan tüm ilanlar ({len(tum)})</summary><ol class="liste">{satirlar}</ol></details>
+<details><summary>Tarama geçmişi</summary><ul class="liste">{gecmis}</ul></details></div>'''
     hata = f'<p class="not">{hatali} ilan bu taramada indirilemedi, bir sonraki taramada tekrar denenecek.</p>' if hatali else ""
     sayfa = f"""<!DOCTYPE html>
 <html lang="tr"><head><meta charset="utf-8">
@@ -277,6 +298,7 @@ h3{{font-size:20px;margin:6px 0 8px;line-height:1.35}}
 details{{margin-top:8px}} summary{{color:var(--mavi);font-size:17px}}
 .alinti{{color:var(--soluk);font-size:16px}}
 .not{{color:var(--soluk);font-size:16px}}
+.liste{{padding-left:22px;font-size:16px}} .liste li{{margin:8px 0}} .neden{{color:var(--soluk)}}
 .yenile{{display:block;width:100%;background:#2b313d;color:#fff;border:0;border-radius:10px;padding:14px;font-size:19px;margin:12px 0}}
 </style></head><body>
 <h1>Kamu İlan Takip</h1>
@@ -287,6 +309,7 @@ Son tarama: <b>{html.escape(durum.get("son_tarama",""))}</b> · günde 3 kez oto
 {bolum("✅ Sana uyan ilanlar", uyan, "Şu an uyan ilan yok. Yeni ilan çıkınca burada görünecek.")}
 {bolum("⚠️ Kontrol et", kontrol, "Kontrol edilecek ilan yok.")}
 {bolum("❌ Önlisans kadrosu var ama uymuyor", elenen, "Yok.")}
+{kanit}
 <p class="not">Toplam {toplam} ilan tarandı. {kapali_sayi} ilan önlisans mezununa kapalı (lisans, lise ya da akademik kadro).
 Kaynak: kamuilan.sbb.gov.tr. Başvuru öncesi ilanın kendisini mutlaka oku; otomatik eleme hata yapabilir.</p>{hata}
 </body></html>"""
