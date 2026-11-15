@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Kamu ilan takip: 6 resmi kaynaktan ilanlari toplar, onlisans Isletme mezunu
-(ehliyetsiz, kadin) icin uyanlari ayiklar, docs/index.html uretir.
+"""Kamu ilan takip: 6 resmi kaynaktan ilanlari toplar, bolumsuz onlisans mezunu
+(ehliyetsiz, kadin; sadece "herhangi bir onlisans programi" kadrolari) icin uyanlari
+ayiklar, docs/index.html uretir.
 
 Kaynaklar: kamuilan.sbb.gov.tr, iskur.gov.tr (Ist/Izm), yerelyonetimler.csb.gov.tr
 (Ist/Izm), ilan.gov.tr (personel alimi), kariyerkapisi.gov.tr (RSS), resmigazete.gov.tr
@@ -185,6 +186,23 @@ def dosya_metni(b):
     return ""
 
 
+# Bolum sarti olmayan onlisans kadrosu kaliplari
+_OL = r"[ÖöO�][Nn]\s?-?\s?[Ll][İIiı�][Ss][Aa][Nn][Ss]"
+BOLUMSUZ = re.compile(
+    r"[Hh][Ee][Rr][Hh][Aa][Nn][Gg][İIiı]\s+[Bb][İIiı][Rr]\W{0,3}(?:" + _OL +
+    r"|[Bb][ÖöO][Ll][ÜüU][Mm]|[Pp][Rr][Oo][Gg][Rr][Aa][Mm])"
+    r"|" + _OL + r"\w*\s+(?:[Pp]rogram|[Bb]ölüm|PROGRAM|BÖLÜM)\w*\s+(?:[Hh]erhangi|HERHANG|[Tt]üm|TÜM|[Bb]ütün|BÜTÜN)"
+    r"|(?:[Tt]üm|TÜM|[Bb]ütün|BÜTÜN)\s+(?:" + _OL + r"\w*\s+)?(?:[Bb]ölüm|BÖLÜM|[Pp]rogram|PROGRAM)"
+    r"|(?:[Bb]ölüm|BÖLÜM)\s+(?:şartı|ŞARTI|şart|ŞART)\s+(?:yok|YOK|aranma|ARANMA|bulunma|BULUNMA)")
+# Belirli bolum isteyen kadro ("... programlarinin birinden mezun olmak")
+BELIRLI = re.compile(r"(?:[Pp]rogram|[Bb]ölüm|PROGRAM|BÖLÜM)\w*\s+(?:[Bb]irinden|BİRİNDEN|[Mm]ezun|MEZUN)")
+# Kadro blogu sinirlari: satir sonu puani ("P93 En az 70 puan", "P93 70") ve grup basligi
+KADRO_SON = re.compile(r"P\s?(?:3|93|94|1|2|10|121)\b(?:.{0,25}?[Pp]uan\w*|\s+\d{2}\b)")
+KADRO_BAS = re.compile(r"\d+\s?[.)-]?\s?Grup\b|Unvan[ıi]\s*:|UNVANI\s*:")
+# degerlendir() mantigi degisince artir: onbellekteki uyan/elenen kararlari yeniden hesaplanir
+KURAL_SURUM = 3
+
+
 def sehir(baslik, metin):
     bas = baslik + " " + metin[:2500]
     if IST.search(bas):
@@ -214,27 +232,44 @@ def degerlendir(baslik, metin):
     if eski_kpss:
         return "elenen", "2024 KPSS puanıyla alım yapıyor, 2026 puanı geçmiyor.", ""
 
-    sebepler = []
-    for pos in p93:
-        w = s[max(0, pos - 900):pos + 40]
-        # pencereyi bir onceki kadro satirinin puanindan sonrasina kirp
-        onceki = list(re.finditer(r"P\s?(?:3|94|93|1|2|10|121)\b.{0,25}?[Pp]uan", w[:-40]))
-        if onceki:
-            w = w[onceki[-1].end():]
-        bolum_ok = re.search(r"herhangi bir|t.m .{0,25}lisans|letme(?!n)|LETME(?!N)", w)
+    # Aleyna bolumsuz onlisans mezunu: sadece bolum sarti olmayan kadrolar ("herhangi bir
+    # onlisans programindan mezun", "tum bolumler") uyar. Tablo satiri (nitelik P93'ten once)
+    # ve grup bicimi (nitelik P93'ten sonra) icin kalibin cevresindeki kadro blogu okunur.
+    sebepler, ilk_ayrinti = [], ""
+    for m in BOLUMSUZ.finditer(s):
+        once = s[max(0, m.start() - 700):m.start()]
+        kes = [k.end() for k in KADRO_SON.finditer(once)] + [k.start() for k in KADRO_BAS.finditer(once)]
+        if kes:
+            once = once[max(kes):]
+        sonra = s[m.end():m.end() + 400]
+        sinir = [k.end() for k in KADRO_SON.finditer(sonra)][:1] + [k.start() for k in KADRO_BAS.finditer(sonra)][:1]
+        if sinir:
+            sonra = sonra[:min(sinir)]
+        w = once + m.group(0) + sonra
+        if not re.search(ONLISANS + r"|P\s?93\b", w):
+            continue  # lisans / lise kadrosunun "tum bolumler"i
         ehliyet = re.search(r"s.r.c. belge|ehliyet", w, re.I)
-        sadece_erkek = re.search(r"Erkek", w) and not re.search(r"Kad", w)
-        kisa = w.strip()[-260:]
-        if bolum_ok and not ehliyet and not sadece_erkek:
-            return "uyan", "Önlisans (P93) kadrosu, bölüm şartı İşletme'yi ya da tüm önlisansları kapsıyor.", kisa
-        if not bolum_ok:
-            sebepler.append("belirli bölümler istiyor (İşletme yok)")
+        sadece_erkek = re.search(r"Erkek|ERKEK", w) and not re.search(r"Kad|KAD", w)
+        kisa = w.strip()[-320:]
+        if not ehliyet and not sadece_erkek:
+            gerekce = "Bölüm şartı yok (herhangi bir önlisans mezunu alıyor), ehliyet istemiyor."
+            if re.search(r"ya[sş].n. doldurmam|sertifika|kimlik kart|tecr[uü]be|deneyim|boy|kilo", w, re.I):
+                gerekce += " Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku."
+            return "uyan", gerekce, kisa
         if ehliyet:
             sebepler.append("B ehliyet istiyor")
         if sadece_erkek:
             sebepler.append("sadece erkek alıyor")
-    sebepler = list(dict.fromkeys(sebepler))
-    return "elenen", "Önlisans kadrosu var ama " + ", ".join(sebepler) + ".", ""
+        ilk_ayrinti = ilk_ayrinti or kisa
+    if sebepler:
+        sebepler = list(dict.fromkeys(sebepler))
+        return "elenen", "Bölüm şartı olmayan önlisans kadrosu var ama " + ", ".join(sebepler) + ".", ilk_ayrinti
+    for b in BELIRLI.finditer(s):
+        # kanit onlisans satirindan olmali (lisans satirinin bolum listesi sayilmaz)
+        if re.search(ONLISANS, s[max(0, b.start() - 300):b.end()]):
+            return ("elenen", "Önlisans kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+                    s[max(0, b.start() - 220):b.end() + 20].strip())
+    return "kontrol", "Önlisans (P93) kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.", ""
 
 
 def osym_kontrol(op):
@@ -471,6 +506,8 @@ def main():
             else hashlib.md5(baslik.encode("utf-8")).hexdigest()[:10]
         pdf_b = None
         kayit = onbellek.get(anahtar) if il["onbellek"] else None
+        if kayit and kayit["kat"] in ("uyan", "elenen") and kayit.get("v") != KURAL_SURUM:
+            kayit = None  # eski kuralla verilmis karar, metni yeniden oku
         if kayit:
             kat, gerekce, ayrinti, sh = kayit["kat"], kayit["gerekce"], kayit["ayrinti"], kayit["sehir"]
             bit = bit or (tarih_iso(kayit["bit"]) if kayit.get("bit") else None)
@@ -487,7 +524,7 @@ def main():
             kat, gerekce, ayrinti = degerlendir(baslik, metin)
             sh = sehir(baslik, metin)
             if il["onbellek"]:
-                onbellek[anahtar] = {"kat": kat, "gerekce": gerekce, "ayrinti": ayrinti, "sehir": sh,
+                onbellek[anahtar] = {"kat": kat, "gerekce": gerekce, "ayrinti": ayrinti, "sehir": sh, "v": KURAL_SURUM,
                                      "bit": bit.isoformat() if bit else "", "t": SIMDI.strftime("%Y-%m-%d")}
         if bit and bit < SIMDI:
             tum.append((etiket, "Süresi dolmuş"))
@@ -633,7 +670,7 @@ details{{margin-top:8px}} summary{{color:var(--mavi);font-size:17px}}
 .yenile{{display:block;width:100%;background:#2b313d;color:#fff;border:0;border-radius:10px;padding:14px;font-size:19px;margin:12px 0}}
 </style></head><body>
 <h1>Kamu İlan Takip</h1>
-<p class="ust">Önlisans İşletme · KPSS P93 · ehliyet şartı yok · İstanbul / İzmir öncelikli<br>
+<p class="ust">Önlisans (bölümsüz, herhangi bir önlisans kadroları) · KPSS P93 · ehliyet şartı yok · İstanbul / İzmir öncelikli<br>
 Son tarama: <b>{html.escape(durum.get("son_tarama",""))}</b> · günde 3 kez otomatik güncellenir · {len(KAYNAKLAR)} kaynak</p>
 <button class="yenile" onclick="location.reload()">Sayfayı yenile</button>
 {tercih}
