@@ -43,36 +43,77 @@
   "c1a61f3b68": "2026-11-06",
   "7fe5dc984a": "2026-11-07",
   "75fa39b33f": "2026-11-10",
-  "cbabf77e7f": "2026-11-10"
+  "cbabf77e7f": "2026-11-10",
+  "db209351cc": "2026-11-15",
+  "6c2b1fb3bb": "2026-11-15",
+  "85f0130ce3": "2026-11-15",
+  "570ebbe343": "2026-11-15",
+  "8f4c442efd": "2026-11-15",
+  "8b572c0353": "2026-11-15",
+  "a04833c9de": "2026-11-15",
+  "945d6b1ecb": "2026-11-15",
+  "056c7d8866": "2026-11-15",
+  "7e30fda048": "2026-11-15",
+  "74bb9e9278": "2026-11-15",
+  "ddc605be1b": "2026-11-15",
+  "2921468103": "2026-11-15",
+  "fbe3f3ca5a": "2026-11-15",
+  "1980a4ada3": "2026-11-15",
+  "a7da469ad1": "2026-11-15",
+  "1c73ee3047": "2026-11-15",
+  "8f3ed4e820": "2026-11-15",
+  "8f42e677b1": "2026-11-15",
+  "696b5b745d": "2026-11-15",
+  "5be996d699": "2026-11-15",
+  "713b28d570": "2026-11-15",
+  "374d12f6f9": "2026-11-15",
+  "29100702bb": "2026-11-15",
+  "581943d06b": "2026-11-15",
+  "7fb28cb70b": "2026-11-15",
+  "92076c36c4": "2026-11-15",
+  "f7d9601bb6": "2026-11-15",
+  "75aa440563": "2026-11-15",
+  "1cbc0115dc": "2026-11-15",
+  "f4a5f1433d": "2026-11-15",
+  "2dc80d5495": "2026-11-15",
+  "00c8b0ab23": "2026-11-15",
+  "4f12c65ae1": "2026-11-15",
+  "accb28ef4f": "2026-11-15",
+  "772cc61e6d": "2026-11-15",
+  "400f2579ad": "2026-11-15",
+  "3c1e38d251": "2026-11-15",
+  "64828fabf1": "2026-11-15",
+  "1d3b217454": "2026-11-15",
+  "a4b07990aa": "2026-11-15",
+  "b1fcadf673": "2026-11-15",
+  "f3564cd933": "2026-11-15",
+  "8f68db9d11": "2026-11-15",
+  "51085e673e": "2026-11-15",
+  "3d52a8c5c3": "2026-11-15",
+  "5dd4878cd3": "2026-11-15",
+  "59e74311de": "2026-11-15",
+  "55a210830b": "2026-11-15",
+  "2939fb92d7": "2026-11-15",
+  "d81e81c143": "2026-11-15",
+  "b6d49792b1": "2026-11-15",
+  "e27d80052f": "2026-11-15",
+  "4617e86764": "2026-11-15",
+  "005178b351": "2026-11-15",
+  "368cf1d7a8": "2026-11-15",
+  "b42ba5300f": "2026-11-15",
+  "a8662f1950": "2026-11-15",
+  "dd9f7a0deb": "2026-11-15",
+  "37ae9f607b": "2026-11-15",
+  "8e9c4152fe": "2026-11-15",
+  "3d0350f8a8": "2026-11-15",
+  "d0413e78ed": "2026-11-15",
+  "59930430cb": "2026-11-15",
+  "e65a30675b": "2026-11-15",
+  "c3da2fbdab": "2026-11-15"
  },
- "son_tarama": "15.11.2026 14:00",
+ "son_tarama": "15.11.2026 17:15",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "10.11.2026 14:00",
-   "toplam": 96,
-   "uyan": 0
-  },
-  {
-   "zaman": "10.11.2026 20:00",
-   "toplam": 96,
-   "uyan": 0
-  },
-  {
-   "zaman": "11.11.2026 08:00",
-   "toplam": 90,
-   "uyan": 0
-  },
-  {
-   "zaman": "11.11.2026 14:00",
-   "toplam": 91,
-   "uyan": 0
-  },
-  {
-   "zaman": "11.11.2026 20:00",
-   "toplam": 91,
-   "uyan": 0
-  },
   {
    "zaman": "12.11.2026 08:20",
    "toplam": 91,
@@ -122,6 +163,1803 @@
    "zaman": "15.11.2026 14:00",
    "toplam": 89,
    "uyan": 0
+  },
+  {
+   "zaman": "15.11.2026 17:06",
+   "toplam": 376,
+   "uyan": 0
+  },
+  {
+   "zaman": "15.11.2026 17:09",
+   "toplam": 376,
+   "uyan": 0
+  },
+  {
+   "zaman": "15.11.2026 17:13",
+   "toplam": 376,
+   "uyan": 0
+  },
+  {
+   "zaman": "15.11.2026 17:14",
+   "toplam": 376,
+   "uyan": 0
+  },
+  {
+   "zaman": "15.11.2026 17:15",
+   "toplam": 376,
+   "uyan": 0
   }
- ]
+ ],
+ "onbellek": {
+  "db209351cc": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-12-11T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "c8e7a00029": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-02T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "0880c1d9dd": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "6c2b1fb3bb": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor, sadece erkek alıyor.",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "056c7d8866": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "19e036dd06": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "7e30fda048": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-27T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "e7888058a1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "971dae324c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "5f5f92c349": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "74bb9e9278": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "ddc605be1b": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "89a19e47ff": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2921468103": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "c71ffd2ab0": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b85f867959": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d5dfcd79ee": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "33e665f40c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "fbe3f3ca5a": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "254b279c5d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "7cf8413d47": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1f084f8abf": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "ee812fb89c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1980a4ada3": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "9b29960854": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "6d3b39cd56": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "0c07b7c452": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "a3ee568a77": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "fff23ba23e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "db53ead267": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "787a9f4307": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f699743d18": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "ea2c66b52f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "30227105f4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "0cb87fd83a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-16T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "1c73ee3047": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-17T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "cdfb8f71df": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-11-19T13:00:00+03:00",
+   "t": "2026-11-15"
+  },
+  "8f3ed4e820": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-11-20T13:00:00+03:00",
+   "t": "2026-11-15"
+  },
+  "2403411cfa": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-20T18:00:00+03:00",
+   "t": "2026-11-15"
+  },
+  "d3e02e0016": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-22T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "f55a9f567f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-27T13:00:00+03:00",
+   "t": "2026-11-15"
+  },
+  "b3937abb00": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "3b549b5dff": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-21T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "789c3e68b0": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d1089271ac": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "9812e7ec98": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2acfbb14c9": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "785bf2d0d2": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "8ea480831f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "dbffe16462": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "6c91079204": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "0468e3ac47": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "eb75ad57c6": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f4a5f1433d": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "596d2ec6d8": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d36c9c5bf5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f68e17ad6a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "612ad61c8b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b4a3cb2fa4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "c659889211": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f10ecf4591": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "066e8d7665": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "c7095f7a0f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d61b6421ef": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b4639d23c4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "60866d8a41": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "64bc1da54c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d3197c66f3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "3ddea5caf1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f4c636a028": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1fa4952625": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "3591bc0a0b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "5d0e6d8725": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "cf7b4964cd": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b91f275b0e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2c491e70ae": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "9f3df6d246": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b4dc57c44e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "8f68db9d11": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "33aa7a56e5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "adedf591d7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "eed3e7c2dc": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "79965a1bb4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "92c0cbaa32": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "4f9a939ce5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "eab761092a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "fe1cdec879": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "dc8742c446": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "bdca058a82": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "ef896bd879": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "0c38833f5a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "e5e248c336": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "e65965f015": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f281c2fd5f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "6ea517c77d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f58ed2f388": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "88fd1280e2": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "fe3a9a879e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b4d5fab907": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "246bdb5d3e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1825a6c069": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "a384587988": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "c23ee3b181": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f5048ae8de": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "38d39669c5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "16d115b685": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "e38538fec8": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b81b2cfcaa": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "787278bbef": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "5191f7a42a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "7c289e4890": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d81e81c143": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2443f7a707": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b6d49792b1": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d5f3292a67": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "884eed3c1a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "441b5c74d9": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "9ceefe2edf": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "dd9f7a0deb": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "37ae9f607b": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "8684195c2d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "add0d210f7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "a99d2b9065": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "50baa97def": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2e01ccb4c2": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "cd1faef209": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "d0413e78ed": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "9668ac59f9": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "9e6ff4fdea": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "e3371d4e64": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "374e79a300": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "554979c3c4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2b71909970": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2cca83e3c1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "3f1f475cef": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "85f0130ce3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-11-19T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "570ebbe343": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "8f4c442efd": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans mezunu geçiyor ama KPSS P93 tablosu yok. Şartları açıp bakmak lazım.",
+   "ayrinti": "ön lisans mezunu, Gıda işletmelerine ait laboratuvarlarda en az 1 yıl tecrübeli, ISO 9001",
+   "sehir": "İstanbul",
+   "bit": "2026-11-30T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "8b572c0353": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-11-30T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "a04833c9de": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans mezunu geçiyor ama KPSS P93 tablosu yok. Şartları açıp bakmak lazım.",
+   "ayrinti": "ön lisans bölümlerinden mezun, Çalışma Saatleri: 07:30-16:00 Muhasebe uygulamaları konusu",
+   "sehir": "İstanbul",
+   "bit": "2026-12-01T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "945d6b1ecb": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-12-06T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "a7da469ad1": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-16T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "8f42e677b1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "696b5b745d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "5be996d699": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "713b28d570": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "374d12f6f9": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "29100702bb": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "581943d06b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "7fb28cb70b": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "92076c36c4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f7d9601bb6": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "75aa440563": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1cbc0115dc": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2dc80d5495": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "00c8b0ab23": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "4f12c65ae1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "accb28ef4f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "772cc61e6d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "400f2579ad": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "3c1e38d251": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "64828fabf1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1d3b217454": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "a4b07990aa": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b1fcadf673": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "f3564cd933": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "51085e673e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "3d52a8c5c3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "5dd4878cd3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "59e74311de": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "55a210830b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "2939fb92d7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "e27d80052f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "4617e86764": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "005178b351": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "368cf1d7a8": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "b42ba5300f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "a8662f1950": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "8e9c4152fe": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "3d0350f8a8": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "59930430cb": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "e65a30675b": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "c3da2fbdab": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "",
+   "t": "2026-11-15"
+  },
+  "1e34dbde8a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "f6bca7dc53": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-27T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "1abceaf919": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-27T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "6fb875d6bc": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-21T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "75fa39b33f": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-25T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "cbabf77e7f": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-17T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "7fe5dc984a": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "298db1110e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-22T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "b61c6f558b": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "18636d1818": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok).",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-15T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "22016669d4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-11-19T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "40c3244073": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-16T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "d856e2730f": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-23T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "dddeb7abfd": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-23T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "c89c8e8b44": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-16T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "c1a61f3b68": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-23T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "bcef3d321a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-25T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "d0382284cb": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2027-01-05T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "8112edd3fc": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-23T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "5cf3b323d6": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-18T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "28589982ae": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-11T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "5ce7729131": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-17T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "90da34da95": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-09T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "ad91a26b4a": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "bit": "2026-12-11T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "09c7f27a71": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-10T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "e5062de310": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-02T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "d1f2aa249b": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor.",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-18T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "5032445c80": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-03T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "2d923c473c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-11T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "916a52d1d3": {
+   "kat": "elenen",
+   "gerekce": "Önlisans kadrosu var ama belirli bölümler istiyor (İşletme yok), B ehliyet istiyor, sadece erkek alıyor.",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "6449d6d4e7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "5c8659be50": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-11T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "f4b21921ef": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-12-04T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "39bfebb7f4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-19T23:59:00+03:00",
+   "t": "2026-11-15"
+  },
+  "d02fb5655e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-15"
+  }
+ },
+ "kaynaklar": {
+  "kamuilan": {
+   "ok": true,
+   "sayi": 89
+  },
+  "iskur": {
+   "ok": true,
+   "sayi": 13
+  },
+  "yerel": {
+   "ok": true,
+   "sayi": 2
+  },
+  "ilangov": {
+   "ok": true,
+   "sayi": 111
+  },
+  "kariyer": {
+   "ok": true,
+   "sayi": 25
+  },
+  "resmi": {
+   "ok": true,
+   "sayi": 136
+  }
+ }
 }
