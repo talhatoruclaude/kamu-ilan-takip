@@ -206,8 +206,11 @@ LISE = (r"(?<![A-Za-zÇĞİÖŞÜçğıöşü])(?:[Ll][İIiı][Ss][Ee]|LİSE|[Oo
 DUZ = re.compile(r"(?:" + _OL + r"|" + LISE + r")(?:\s+ve\s+dengi|\s+veya\s+dengi|\s*\([^)]{0,25}\))?"
                  r"(?:\s+okul(?:u|lar)?)?(?:\s+düzeyinde)?\s+(?:[Mm]ezun|MEZUN)(?:u|U)?(?:\s+olmak|\s+OLMAK)?"
                  r"(?![A-Za-zÇĞİÖŞÜçğıöşü])")  # "mezunlari icin P93" genel sart cumlesi sayilmaz
+# Ozel guvenlik kimlik karti / sertifikasi sarti (kucuk harfe cevrilmis metinde aranir)
+GUVENLIK = (r"g[uü]venlik\s+(?:g[oö]revlisi\s+|eleman[ıi]\s+)?(?:kimlik\s+kart|sertifika|belge)"
+            r"|silahl[ıi]\s+(?:[oö]zel\s+)?g[uü]venlik|5188\s+say[ıi]l[ıi]")
 # degerlendir() mantigi degisince artir: onbellekteki tum kararlar yeniden hesaplanir
-KURAL_SURUM = 5
+KURAL_SURUM = 6
 
 
 def sehir(baslik, metin):
@@ -259,10 +262,16 @@ def degerlendir(baslik, metin):
         lise = not ol and re.search(LISE + r"|P\s?94\b", w)
         if not ol and not lise:
             continue  # lisans kadrosunun "tum bolumler"i
-        ehliyet = re.search(r"s.r.c. belge|ehliyet", w, re.I)
-        sadece_erkek = re.search(r"Erkek|ERKEK", w) and not re.search(r"Kad|KAD", w)
+        wk = w.replace("İ", "i").replace("I", "ı").lower()
+        # "ehliyet tercih sebebidir" eleme sebebi degil
+        ehliyet = any(not re.search(r"tercih", wk[e.end():e.end() + 60])
+                      for e in re.finditer(r"s.r.c. belge|ehliyet", wk))
+        # "Erkek adaylarin askerlik..." genel cumlesi cinsiyet sarti sayilmaz
+        wc = re.sub(r"erkek\s+aday\w*(?:\s+\S+){0,4}?\s+askerl", " ", wk)
+        sadece_erkek = re.search(r"erkek", wc) and not re.search(r"kad[ıi]n", wc)
+        guvenlik = re.search(GUVENLIK, wk)
         kisa = w.strip()[-320:]
-        if not ehliyet and not sadece_erkek:
+        if not ehliyet and not sadece_erkek and not guvenlik:
             if lise:
                 gerekce = ("Lise mezunu kadrosu, bölüm şartı yok, ehliyet istemiyor. "
                            "KPSS P94 (ortaöğretim) puanı isteyebilir, ilana bak.")
@@ -275,6 +284,8 @@ def degerlendir(baslik, metin):
             sebepler.append("B ehliyet istiyor")
         if sadece_erkek:
             sebepler.append("sadece erkek alıyor")
+        if guvenlik:
+            sebepler.append("özel güvenlik kimlik kartı / sertifikası istiyor")
         ilk_ayrinti = ilk_ayrinti or kisa
     if sebepler:
         sebepler = list(dict.fromkeys(sebepler))
