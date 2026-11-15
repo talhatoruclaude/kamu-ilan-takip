@@ -111,14 +111,9 @@
   "e65a30675b": "2026-11-15",
   "c3da2fbdab": "2026-11-15"
  },
- "son_tarama": "15.11.2026 17:35",
+ "son_tarama": "15.11.2026 17:40",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "13.11.2026 20:00",
-   "toplam": 101,
-   "uyan": 0
-  },
   {
    "zaman": "14.11.2026 08:00",
    "toplam": 90,
@@ -188,6 +183,11 @@
    "zaman": "15.11.2026 17:35",
    "toplam": 376,
    "uyan": 4
+  },
+  {
+   "zaman": "15.11.2026 17:40",
+   "toplam": 376,
+   "uyan": 0
   }
  ],
  "onbellek": {
@@ -196,7 +196,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "ne sahip olmak. Erkek/ Kadın P3 En az 65 puan 3 Zabıta Memuru GİH 10 13 - Mahalli idareler, mahalli idareler (zabıta), yerel yönetimler, halkla ilişkiler, adalet, acil durum ve afet yönetimi, ilk ve acil yardım önlisans programlarının birinden mezun olmak. -En az",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-11T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -205,7 +205,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-02T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -214,7 +214,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -223,7 +223,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "arının birinden mezun olmak, En az (B) sınıfı sürücü belgesine sahip olmak. Kadın P3 En az 65 Puan 5 Zabıta Memuru GİH 10 24 Ön lisans düzeyinden eğitim veren kurumların adalet, yerel yönetimler, özel güvenlik ve koruma programlarının birinden mezun olmak, En az",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -232,7 +232,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "ne sahip olmak. Erkek/ Kadın P3 En az 65 puan 3 Zabıta Memuru GİH 10 13 - Mahalli idareler, mahalli idareler (zabıta), yerel yönetimler, halkla ilişkiler, adalet, acil durum ve afet yönetimi, ilk ve acil yardım önlisans programlarının birinden mezun olmak. -En az",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -241,7 +241,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -250,7 +250,7 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-27T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -259,7 +259,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -268,7 +268,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -277,7 +277,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -286,16 +286,16 @@
    "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama B ehliyet istiyor.",
    "ayrinti": "çıktan atama yoluyla zabıta memuru alımı yapılacaktır. Sıra No Kadro Ünvanı Hizmet Sınıfı Kadro Derecesi Kadro Adedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Zabıta Memuru GİH 11 4 -Herhangi bir önlisans programından mezun olmak. -En az (B) sınıfı sürücü belgesine sahip olmak. Erkek/ Kadın P93 En az 70 puan",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
   "ddc605be1b": {
-   "kat": "uyan",
-   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "kat": "elenen",
+   "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama özel güvenlik kimlik kartı / sertifikası istiyor, B ehliyet istiyor, sadece erkek alıyor.",
    "ayrinti": "ataması yapılanların atamaları iptal edilecektir.) 4- Başkanlığımızın tüm hizmet birimlerinde, gece ve gündüz, iç ve dış mekânlarında 24 saat esasına göre vardiyalı sistemde çalışmaya engel durumu bulunmamak, 5- Son başvuru tarihi itibarıyla 45 yaşını doldurmamış olmak. 6- Herhangi bir ön lisans bölümünden mezun olmak.",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -304,7 +304,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -313,7 +313,7 @@
    "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama B ehliyet istiyor.",
    "ayrinti": "lirtilen boş kadroya açıktan atama yoluyla memur alınacaktır. Sıra No Kadro Ünvanı Hizmet Sınıfı Kadro Derecesi Kadro Adedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Memur GİH 9 1 - Herhangi bir önlisans programından mezun olmak, - En az (B) sınıfı sürücü belgesine sahip olmak, Erkek/ Kadın P93 En az 60 puan",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -322,7 +322,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -331,7 +331,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -340,7 +340,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -349,7 +349,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -358,7 +358,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "on başvuru tarihi itibariyle 30 yaşını doldurmamış olmak. 3-Yükseköğretim kurumlarında örgün (Lisans) eğitim öğrencisi kaydı bulunmamak. T01 Tekniker 3 ÖNLİSANS KADIN/ERKEK 1-Elektrik veya Elektrik Teknolojisi ön lisans programından mezun olmak. 2-Son başvur",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -367,7 +367,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -376,7 +376,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -385,7 +385,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -394,7 +394,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -403,7 +403,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "ne sahip olmak. Erkek/ Kadın P3 En az 65 puan 3 Zabıta Memuru GİH 10 13 - Mahalli idareler, mahalli idareler (zabıta), yerel yönetimler, halkla ilişkiler, adalet, acil durum ve afet yönetimi, ilk ve acil yardım önlisans programlarının birinden mezun olmak. -En az",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -412,7 +412,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -421,7 +421,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -430,7 +430,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -439,7 +439,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -448,7 +448,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -457,7 +457,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -466,7 +466,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -475,7 +475,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -484,7 +484,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -493,7 +493,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -502,16 +502,16 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-16T23:59:00+03:00",
    "t": "2026-11-15"
   },
   "1c73ee3047": {
-   "kat": "uyan",
-   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "kat": "elenen",
+   "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama özel güvenlik kimlik kartı / sertifikası istiyor, B ehliyet istiyor, sadece erkek alıyor.",
    "ayrinti": "ataması yapılanların atamaları iptal edilecektir.) 4- Başkanlığımızın tüm hizmet birimlerinde, gece ve gündüz, iç ve dış mekânlarında 24 saat esasına göre vardiyalı sistemde çalışmaya engel durumu bulunmamak, 5- Son başvuru tarihi itibarıyla 45 yaşını doldurmamış olmak. 6- Herhangi bir ön lisans bölümünden mezun olmak.",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-17T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -520,7 +520,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-19T13:00:00+03:00",
    "t": "2026-11-15"
   },
@@ -529,7 +529,7 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-20T13:00:00+03:00",
    "t": "2026-11-15"
   },
@@ -538,7 +538,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-20T18:00:00+03:00",
    "t": "2026-11-15"
   },
@@ -547,7 +547,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-22T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -556,7 +556,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-27T13:00:00+03:00",
    "t": "2026-11-15"
   },
@@ -565,7 +565,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -574,7 +574,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-21T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -583,7 +583,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -592,7 +592,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -601,7 +601,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -610,7 +610,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -619,7 +619,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -628,7 +628,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -637,7 +637,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -646,7 +646,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -655,7 +655,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -664,7 +664,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -673,7 +673,7 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -682,7 +682,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -691,7 +691,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -700,7 +700,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -709,7 +709,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -718,7 +718,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -727,7 +727,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -736,7 +736,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -745,7 +745,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -754,7 +754,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -763,7 +763,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -772,7 +772,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -781,7 +781,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -790,7 +790,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -799,7 +799,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -808,7 +808,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -817,7 +817,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -826,7 +826,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -835,7 +835,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -844,7 +844,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -853,7 +853,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -862,7 +862,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -871,7 +871,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -880,7 +880,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -889,7 +889,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -898,7 +898,7 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -907,7 +907,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -916,7 +916,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -925,7 +925,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -934,7 +934,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -943,7 +943,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -952,7 +952,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -961,7 +961,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -970,7 +970,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -979,7 +979,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -988,7 +988,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -997,7 +997,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1006,7 +1006,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1015,7 +1015,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1024,7 +1024,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1033,7 +1033,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1042,7 +1042,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1051,7 +1051,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1060,7 +1060,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1069,7 +1069,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1078,7 +1078,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1087,7 +1087,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1096,7 +1096,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1105,7 +1105,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1114,7 +1114,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1123,7 +1123,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1132,7 +1132,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1141,7 +1141,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1150,7 +1150,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1159,7 +1159,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1168,7 +1168,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1177,7 +1177,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1186,7 +1186,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1195,7 +1195,7 @@
    "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama B ehliyet istiyor.",
    "ayrinti": "belirtilen boş kadroya açıktan atama yoluyla memur alınacaktır. Sıra No Kadro Ünvanı Hizmet Sınıfı Kadro Derecesi Kadro Adedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Memur GİH 9 1 -Herhangi bir önlisans programından mezun olmak, -En az (B) sınıfı sürücü belgesine sahip olmak, Erkek/ Kadın P93 En az 60 puan",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1204,16 +1204,16 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
   "b6d49792b1": {
-   "kat": "uyan",
-   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "kat": "elenen",
+   "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama özel güvenlik kimlik kartı / sertifikası istiyor, B ehliyet istiyor, sadece erkek alıyor.",
    "ayrinti": "ataması yapılanların atamaları iptal edilecektir.) 4- Başkanlığımızın tüm hizmet birimlerinde, gece ve gündüz, iç ve dış mekânlarında 24 saat esasına göre vardiyalı sistemde çalışmaya engel durumu bulunmamak, 5- Son başvuru tarihi itibarıyla 45 yaşını doldurmamış olmak. 6- Herhangi bir ön lisans bölümünden mezun olmak.",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1222,7 +1222,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1231,7 +1231,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1240,7 +1240,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1249,7 +1249,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1258,7 +1258,7 @@
    "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama B ehliyet istiyor.",
    "ayrinti": "çıktan atama yoluyla zabıta memuru alımı yapılacaktır. Sıra No Kadro Ünvanı Hizmet Sınıfı Kadro Derecesi Kadro Adedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Zabıta Memuru GİH 11 4 -Herhangi bir önlisans programından mezun olmak. -En az (B) sınıfı sürücü belgesine sahip olmak. Erkek/ Kadın P93 En az 70 puan",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1267,7 +1267,7 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1276,7 +1276,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1285,7 +1285,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1294,7 +1294,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1303,7 +1303,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1312,7 +1312,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1321,7 +1321,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1330,7 +1330,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "Son başvuru tarihi itibariyle 30 yaşını doldurmamış olmak. 3-Yükseköğretim kurumlarında örgün (Lisans) eğitim öğrencisi kaydı bulunmamak. T01 Tekniker 3 ÖNLİSANS KADIN/ERKEK 1-Elektrik veya Elektrik Teknolojisi önlisans programından mezun olmak. 2-Son başvur",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1339,7 +1339,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1348,7 +1348,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1357,7 +1357,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1366,7 +1366,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1375,7 +1375,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1384,7 +1384,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1393,7 +1393,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1402,7 +1402,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1411,7 +1411,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-19T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1420,7 +1420,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-20T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1429,7 +1429,7 @@
    "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
    "ayrinti": "Lise Mezunu Fabrika ortamında ekip çalışmasına yatkın, Vardiyalı çalışmaya engeli bu",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-30T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1438,7 +1438,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-30T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1447,7 +1447,7 @@
    "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
    "ayrinti": "ön lisans bölümlerinden mezun, Çalışma Saatleri: 07:30-16:00 Muhasebe uygulamaları konusu",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-01T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1456,7 +1456,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-06T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1465,7 +1465,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-16T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1474,7 +1474,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1483,7 +1483,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1492,7 +1492,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1501,7 +1501,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1510,7 +1510,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1519,7 +1519,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1528,7 +1528,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1537,7 +1537,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1546,7 +1546,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1555,7 +1555,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1564,7 +1564,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1573,7 +1573,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1582,7 +1582,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1591,7 +1591,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1600,7 +1600,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1609,7 +1609,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1618,7 +1618,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1627,7 +1627,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1636,7 +1636,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1645,7 +1645,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1654,7 +1654,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1663,7 +1663,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1672,7 +1672,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1681,7 +1681,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1690,7 +1690,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1699,7 +1699,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1708,7 +1708,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1717,7 +1717,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1726,7 +1726,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1735,7 +1735,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1744,7 +1744,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1753,7 +1753,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1762,7 +1762,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1771,7 +1771,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1780,7 +1780,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1789,7 +1789,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1798,7 +1798,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1807,7 +1807,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1816,7 +1816,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1825,7 +1825,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1834,7 +1834,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "",
    "t": "2026-11-15"
   },
@@ -1843,7 +1843,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1852,7 +1852,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-27T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1861,7 +1861,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-27T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1870,7 +1870,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-21T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1879,16 +1879,16 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-25T23:59:00+03:00",
    "t": "2026-11-15"
   },
   "cbabf77e7f": {
-   "kat": "uyan",
-   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "kat": "elenen",
+   "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama özel güvenlik kimlik kartı / sertifikası istiyor, B ehliyet istiyor, sadece erkek alıyor.",
    "ayrinti": "ataması yapılanların atamaları iptal edilecektir.) 4- Başkanlığımızın tüm hizmet birimlerinde, gece ve gündüz, iç ve dış mekânlarında 24 saat esasına göre vardiyalı sistemde çalışmaya engel durumu bulunmamak, 5- Son başvuru tarihi itibarıyla 45 yaşını doldurmamış olmak. 6- Herhangi bir ön lisans bölümünden mezun olmak.",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-17T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1897,7 +1897,7 @@
    "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-20T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1906,7 +1906,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-22T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1915,7 +1915,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "on başvuru tarihi itibariyle 30 yaşını doldurmamış olmak. 3- Yükseköğretim kurumlarında örgün (Lisans) eğitim öğrencisi kaydı bulunmamak. T01 Tekniker 3 ÖNLİSANS KADIN/ERKEK 1-Elektrik veya Elektrik Teknolojisi önlisans programından mezun olmak. 2- Son başvu",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-20T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1924,7 +1924,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "telerin Ziraat Fakültelerinin veya muadili yerli ve yabancı Ziraat Mühendisi diploması veren fakültelerin; Tarla Bitkileri, Bahçe Bitkileri bölümlerinin birinden mezun olmak. 2 P3 70 Ankara (2) Yapı Ressamlığı ön lisans programından mezun olmak. 1 2026 KPSSP",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-15T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1933,7 +1933,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-19T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1942,7 +1942,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-16T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1951,7 +1951,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-23T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1960,7 +1960,7 @@
    "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-23T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1969,7 +1969,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-16T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1978,7 +1978,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-23T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1987,7 +1987,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-25T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -1996,7 +1996,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2027-01-05T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2005,7 +2005,7 @@
    "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama B ehliyet istiyor.",
    "ayrinti": "çıktan atama yoluyla zabıta memuru alımı yapılacaktır. Sıra No Kadro Unvanı Hizmet Sınıfı Kadro Derecesi Kadro Adedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Zabıta Memuru GİH 11 4 -Herhangi bir önlisans programından mezun olmak. -En az (B) sınıfı sürücü belgesine sahip olmak. Erkek/ Kadın P93 En az 70 puan",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-23T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2014,7 +2014,7 @@
    "gerekce": "Bölüm şartı olmayan önlisans / lise kadrosu var ama B ehliyet istiyor.",
    "ayrinti": "elirtilen boş kadro ya açıktan atama yoluyla memur alınacaktır. Sıra No Kadro Unvanı Hizmet Sınıfı Kadro Derecesi Kadro Adedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Memur GİH 9 1 -Herhangi bir önlisans programından mezun olmak, -En az (B) sınıfı sürücü belgesine sahip olmak, Erkek/ Kadın P93 En az 60 puan",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-18T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2023,7 +2023,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-11T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2032,7 +2032,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-17T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2041,7 +2041,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-09T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2050,7 +2050,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "ne sahip olmak. Erkek/ Kadın P3 En az 65 puan 3 Zabıta Memuru GİH 10 13 - Mahalli idareler, mahalli idareler (zabıta), yerel yönetimler, halkla ilişkiler, adalet, acil durum ve afet yönetimi, ilk ve acil yardım önlisans programlarının birinden mezun olmak. -En az",
    "sehir": "İstanbul",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-11T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2059,7 +2059,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-10T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2068,7 +2068,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-02T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2077,7 +2077,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "dedi Niteliği Cinsiyeti KPSS Puan Türü KPSS Taban Puanı 1 Zabıta Memuru GİH 7-8 9 -Mahalli İdareler, Mahalli İdareler (Zabıta), Yerel Yönetimler, Pazarlama, Pazarlama ve Satış, Piyasa Araştırmaları ve Pazarlama önlisans programlarının birinden mezun olmak. -En az",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-18T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2086,7 +2086,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-03T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2095,7 +2095,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-11T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2104,7 +2104,7 @@
    "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
    "ayrinti": "arının birinden mezun olmak, En az (B) sınıfı sürücü belgesine sahip olmak. Kadın P3 En az 65 puan 5 Zabıta Memuru GİH 10 24 Ön lisans düzeyinden eğitim veren kurumların Adalet, Yerel Yönetimler, Özel Güvenlik ve Koruma programlarının birinden mezun olmak, En az",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2113,7 +2113,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "İzmir",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2122,7 +2122,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-11T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2131,7 +2131,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-12-04T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2140,7 +2140,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-19T23:59:00+03:00",
    "t": "2026-11-15"
   },
@@ -2149,7 +2149,7 @@
    "gerekce": "",
    "ayrinti": "",
    "sehir": "",
-   "v": 5,
+   "v": 6,
    "bit": "2026-11-20T23:59:00+03:00",
    "t": "2026-11-15"
   }
