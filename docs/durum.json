@@ -109,16 +109,12 @@
   "d0413e78ed": "2026-11-15",
   "59930430cb": "2026-11-15",
   "e65a30675b": "2026-11-15",
-  "c3da2fbdab": "2026-11-15"
+  "c3da2fbdab": "2026-11-15",
+  "0c9587766a": "2026-11-16"
  },
- "son_tarama": "15.11.2026 20:00",
+ "son_tarama": "16.11.2026 09:29",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "14.11.2026 14:00",
-   "toplam": 90,
-   "uyan": 0
-  },
   {
    "zaman": "14.11.2026 20:00",
    "toplam": 90,
@@ -187,6 +183,11 @@
   {
    "zaman": "15.11.2026 20:00",
    "toplam": 376,
+   "uyan": 0
+  },
+  {
+   "zaman": "16.11.2026 09:29",
+   "toplam": 374,
    "uyan": 0
   }
  ],
@@ -2152,16 +2153,133 @@
    "v": 6,
    "bit": "2026-11-20T23:59:00+03:00",
    "t": "2026-11-15"
+  },
+  "756d048de7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-30T23:59:00+03:00",
+   "t": "2026-11-16"
+  },
+  "4f3cc29baa": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-30T13:00:00+03:00",
+   "t": "2026-11-16"
+  },
+  "0c9587766a": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "e180712d36": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "0bd3a0a8c1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "4e08675ff5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "55b519822b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "b5711b72a9": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "5bbf629b8a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "cd6912463f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "0bf10bf9c7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "476eebf1b5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "483d1f2248": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 89
+   "sayi": 96
   },
   "iskur": {
    "ok": true,
-   "sayi": 13
+   "sayi": 12
   },
   "yerel": {
    "ok": true,
@@ -2177,7 +2295,7 @@
   },
   "resmi": {
    "ok": true,
-   "sayi": 136
+   "sayi": 128
   }
  }
 }
