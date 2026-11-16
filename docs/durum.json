@@ -115,14 +115,9 @@
   "6510274cfb": "2026-11-16",
   "e394b60607": "2026-11-16"
  },
- "son_tarama": "16.11.2026 14:00",
+ "son_tarama": "16.11.2026 20:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "15.11.2026 08:00",
-   "toplam": 89,
-   "uyan": 0
-  },
   {
    "zaman": "15.11.2026 14:00",
    "toplam": 89,
@@ -191,6 +186,11 @@
   {
    "zaman": "16.11.2026 14:00",
    "toplam": 389,
+   "uyan": 0
+  },
+  {
+   "zaman": "16.11.2026 20:00",
+   "toplam": 392,
    "uyan": 0
   }
  ],
@@ -2345,16 +2345,25 @@
    "v": 6,
    "bit": "2026-11-30T17:00:00+03:00",
    "t": "2026-11-16"
+  },
+  "0db9dca9eb": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "v": 6,
+   "bit": "2026-11-22T23:59:00+03:00",
+   "t": "2026-11-16"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 100
+   "sayi": 102
   },
   "iskur": {
    "ok": true,
-   "sayi": 13
+   "sayi": 14
   },
   "yerel": {
    "ok": true,
@@ -2362,11 +2371,11 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 118
+   "sayi": 119
   },
   "kariyer": {
    "ok": true,
-   "sayi": 28
+   "sayi": 27
   },
   "resmi": {
    "ok": true,
