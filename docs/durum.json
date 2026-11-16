@@ -110,16 +110,14 @@
   "59930430cb": "2026-11-15",
   "e65a30675b": "2026-11-15",
   "c3da2fbdab": "2026-11-15",
-  "0c9587766a": "2026-11-16"
+  "0c9587766a": "2026-11-16",
+  "ff0b7b97da": "2026-11-16",
+  "6510274cfb": "2026-11-16",
+  "e394b60607": "2026-11-16"
  },
- "son_tarama": "16.11.2026 09:29",
+ "son_tarama": "16.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "14.11.2026 20:00",
-   "toplam": 90,
-   "uyan": 0
-  },
   {
    "zaman": "15.11.2026 08:00",
    "toplam": 89,
@@ -188,6 +186,11 @@
   {
    "zaman": "16.11.2026 09:29",
    "toplam": 374,
+   "uyan": 0
+  },
+  {
+   "zaman": "16.11.2026 14:00",
+   "toplam": 389,
    "uyan": 0
   }
  ],
@@ -2270,16 +2273,88 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-16"
+  },
+  "8e366276c2": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-30T23:59:00+03:00",
+   "t": "2026-11-16"
+  },
+  "6b5e8d5690": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-16"
+  },
+  "ff0b7b97da": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ön Lisans programlarından mezun olmak şarttır. BAŞVURU lçiN GEREKLİ BELGELER Başvurular y",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-16"
+  },
+  "be83a18836": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "3e866b6e00": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-16"
+  },
+  "6510274cfb": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "lise mezunu olmak - B sınıfı ehliyet sahibi olmak - Askerlikle ilişiği bulunmamak - ",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-20T23:59:00+03:00",
+   "t": "2026-11-16"
+  },
+  "e394b60607": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "lise veya dengi okulların ilgili bölümlerinden mezun olmak, 8.Ekonomist Kadrosuna At",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-25T23:59:00+03:00",
+   "t": "2026-11-16"
+  },
+  "2aafd22650": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-30T17:00:00+03:00",
+   "t": "2026-11-16"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 96
+   "sayi": 100
   },
   "iskur": {
    "ok": true,
-   "sayi": 12
+   "sayi": 13
   },
   "yerel": {
    "ok": true,
@@ -2287,11 +2362,11 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 111
+   "sayi": 118
   },
   "kariyer": {
    "ok": true,
-   "sayi": 25
+   "sayi": 28
   },
   "resmi": {
    "ok": true,
