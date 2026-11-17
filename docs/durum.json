@@ -116,14 +116,9 @@
   "e394b60607": "2026-11-16",
   "25e86d793c": "2026-11-17"
  },
- "son_tarama": "17.11.2026 08:00",
+ "son_tarama": "17.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "15.11.2026 17:06",
-   "toplam": 376,
-   "uyan": 0
-  },
   {
    "zaman": "15.11.2026 17:09",
    "toplam": 376,
@@ -192,6 +187,11 @@
   {
    "zaman": "17.11.2026 08:00",
    "toplam": 365,
+   "uyan": 0
+  },
+  {
+   "zaman": "17.11.2026 14:00",
+   "toplam": 376,
    "uyan": 0
   }
  ],
@@ -2463,12 +2463,21 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-17"
+  },
+  "3d400b1e63": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-17"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 91
+   "sayi": 92
   },
   "iskur": {
    "ok": true,
@@ -2476,11 +2485,11 @@
   },
   "yerel": {
    "ok": true,
-   "sayi": 2
+   "sayi": 1
   },
   "ilangov": {
    "ok": true,
-   "sayi": 110
+   "sayi": 121
   },
   "kariyer": {
    "ok": true,
