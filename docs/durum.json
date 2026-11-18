@@ -115,16 +115,12 @@
   "6510274cfb": "2026-11-16",
   "e394b60607": "2026-11-16",
   "25e86d793c": "2026-11-17",
-  "72b8650326": "2026-11-17"
+  "72b8650326": "2026-11-17",
+  "3c10971546": "2026-11-18"
  },
- "son_tarama": "18.11.2026 08:00",
+ "son_tarama": "18.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "15.11.2026 17:14",
-   "toplam": 376,
-   "uyan": 0
-  },
   {
    "zaman": "15.11.2026 17:15",
    "toplam": 376,
@@ -193,6 +189,11 @@
   {
    "zaman": "18.11.2026 08:00",
    "toplam": 375,
+   "uyan": 0
+  },
+  {
+   "zaman": "18.11.2026 14:00",
+   "toplam": 386,
    "uyan": 0
   }
  ],
@@ -2599,16 +2600,25 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-18"
+  },
+  "3c10971546": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "ön lisans mezunu olmak, * 20—30 yaş aralığında olmak, * Gemi İnşaatı ve tersanecilik sekt",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-11-23T23:59:00+03:00",
+   "t": "2026-11-18"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 94
+   "sayi": 95
   },
   "iskur": {
    "ok": true,
-   "sayi": 12
+   "sayi": 13
   },
   "yerel": {
    "ok": true,
@@ -2616,7 +2626,7 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 115
+   "sayi": 124
   },
   "kariyer": {
    "ok": true,
