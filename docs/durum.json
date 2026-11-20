@@ -121,16 +121,14 @@
   "b95fa05186": "2026-11-20",
   "83e4370320": "2026-11-20",
   "0ba2567368": "2026-11-20",
-  "709cfb3492": "2026-11-20"
+  "709cfb3492": "2026-11-20",
+  "675e2023aa": "2026-11-20",
+  "953492cd94": "2026-11-20",
+  "800eff117d": "2026-11-20"
  },
- "son_tarama": "20.11.2026 08:00",
+ "son_tarama": "20.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "15.11.2026 17:40",
-   "toplam": 376,
-   "uyan": 0
-  },
   {
    "zaman": "15.11.2026 20:00",
    "toplam": 376,
@@ -200,6 +198,11 @@
    "zaman": "20.11.2026 08:00",
    "toplam": 403,
    "uyan": 3
+  },
+  {
+   "zaman": "20.11.2026 14:00",
+   "toplam": 420,
+   "uyan": 6
   }
  ],
  "onbellek": {
@@ -2992,12 +2995,39 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-20"
+  },
+  "675e2023aa": {
+   "kat": "uyan",
+   "gerekce": "Lise mezunu kadrosu, bölüm şartı yok, ehliyet istemiyor. KPSS P94 (ortaöğretim) puanı isteyebilir, ilana bak.",
+   "ayrinti": "malarını E-Devletten alınacak meslek kodunu/kodlarını gösterir barkodlu SGK Hizmet Dökümü ile belgelendirmek. (E-Devletten alınan bu belgenin başvuru esnasında sisteme yüklenmesi gerekmektedir.) Yükseköğretim Kurumlarında aktif örgün eğitim öğrencisi olarak kaydı bulunmamak, Bu pozisyonda istihdam edilecekler görevlend",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "953492cd94": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor.",
+   "ayrinti": " İSTENİLEN BELGELER - Adayların KPSS puanı, mezuniyet, adli sicil, erkek adaylar için askerlik ve kimlik kayıtlarına dair bilgiler e-Devlet Kapısı üzerinden ilgili kurumların web servisleri aracılığıyla temin edileceğinden adaylardan başvuru aşamasında bu belgeler istenilmeyecektir. Adayların söz konusu bilgilerinde ha",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "800eff117d": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor.",
+   "ayrinti": " İSTENİLEN BELGELER - Adayların KPSS puanı, mezuniyet, adli sicil, erkek adaylar için askerlik ve kimlik kayıtlarına dair bilgiler e-Devlet Kapısı üzerinden ilgili kurumların web servisleri aracılığıyla temin edileceğinden adaylardan başvuru aşamasında bu belgeler istenilmeyecektir. Adayların söz konusu bilgilerinde ha",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-05T13:00:00+03:00",
+   "t": "2026-11-20"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 106
+   "sayi": 108
   },
   "iskur": {
    "ok": true,
@@ -3009,11 +3039,11 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 128
+   "sayi": 144
   },
   "kariyer": {
    "ok": true,
-   "sayi": 25
+   "sayi": 24
   },
   "resmi": {
    "ok": true,
