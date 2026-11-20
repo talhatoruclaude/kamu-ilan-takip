@@ -116,16 +116,16 @@
   "e394b60607": "2026-11-16",
   "25e86d793c": "2026-11-17",
   "72b8650326": "2026-11-17",
-  "3c10971546": "2026-11-18"
+  "3c10971546": "2026-11-18",
+  "89caddb9d0": "2026-11-20",
+  "b95fa05186": "2026-11-20",
+  "83e4370320": "2026-11-20",
+  "0ba2567368": "2026-11-20",
+  "709cfb3492": "2026-11-20"
  },
- "son_tarama": "19.11.2026 20:00",
+ "son_tarama": "20.11.2026 08:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "15.11.2026 17:35",
-   "toplam": 376,
-   "uyan": 4
-  },
   {
    "zaman": "15.11.2026 17:40",
    "toplam": 376,
@@ -195,6 +195,11 @@
    "zaman": "19.11.2026 20:00",
    "toplam": 401,
    "uyan": 0
+  },
+  {
+   "zaman": "20.11.2026 08:00",
+   "toplam": 403,
+   "uyan": 3
   }
  ],
  "onbellek": {
@@ -2780,16 +2785,223 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-19"
+  },
+  "89caddb9d0": {
+   "kat": "uyan",
+   "gerekce": "Lise mezunu kadrosu, bölüm şartı yok, ehliyet istemiyor. KPSS P94 (ortaöğretim) puanı isteyebilir, ilana bak.",
+   "ayrinti": "istihdam edilecekler görevlendirildiği birimin kapalı ve açık alanlarının temizliği, katı atıkların toplanması, malzeme-demirbaş taşıma, yükleme- boşaltma ve yöneticiler tarafından verilen diğer hizmetli görevlerini yerine getireceklerdir. ORTAÖĞRETİMDESTEK PERSONELİ (HİZMETLİ) KPSS P94 Lise ve dengi okul mezunu olmak.",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-06T23:59:00+03:00",
+   "t": "2026-11-20"
+  },
+  "b95fa05186": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor.",
+   "ayrinti": "A İSTENİLEN BELGELER - Adayların KPSS puanı, mezuniyet, adli sicil, erkek adaylar için askerlik ve kimlik kayıtlarına dair bilgiler e -Devlet Kapısı üzerinden ilgili kurumların web servisleri aracılığıyla temin edileceğinden adaylardan başvuru aşamasında bu belgeler istenilmeyece ktir. Adayların söz konusu bilgilerinde",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-05T23:59:00+03:00",
+   "t": "2026-11-20"
+  },
+  "83e4370320": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-06T23:59:00+03:00",
+   "t": "2026-11-20"
+  },
+  "24b3b9b876": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "95cfd5b762": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "252e1fded5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "439f127da1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "9727f49a31": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "f7baac26eb": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "17cd57bf85": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "56ae50da0c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "912f58bf1b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "257f5d13b7": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "55934e4640": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "5451d53a6d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "3db3509d53": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "0ba2567368": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "e2a3974664": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "709cfb3492": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor.",
+   "ayrinti": " İSTENİLEN BELGELER - Adayların KPSS puanı, mezuniyet, adli sicil, erkek adaylar iç in askerlik ve kimlik kayıtlarına dair bilgiler e-Devlet Kapısı üzerinden ilgili kurumların web servisleri aracılığıyla temin edileceğinden aday lardan başvuru aşamasında bu belgeler istenilmeyecektir. Adayla rın söz konusu bilgilerinde",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "61d12ef220": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "020bec3741": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "96f8543228": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
+  },
+  "d2e8ad17f3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-20"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 99
+   "sayi": 106
   },
   "iskur": {
    "ok": true,
-   "sayi": 12
+   "sayi": 11
   },
   "yerel": {
    "ok": true,
@@ -2797,15 +3009,15 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 134
+   "sayi": 128
   },
   "kariyer": {
    "ok": true,
-   "sayi": 24
+   "sayi": 25
   },
   "resmi": {
    "ok": true,
-   "sayi": 131
+   "sayi": 132
   }
  }
 }
