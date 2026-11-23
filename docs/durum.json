@@ -131,16 +131,15 @@
   "f96e095f82": "2026-11-23",
   "5be6933d16": "2026-11-23",
   "894b7090cc": "2026-11-23",
-  "5da7d7ba48": "2026-11-23"
+  "5da7d7ba48": "2026-11-23",
+  "14c586c191": "2026-11-23",
+  "ac541c3861": "2026-11-23",
+  "cf29295a8f": "2026-11-23",
+  "b68539dc10": "2026-11-23"
  },
- "son_tarama": "23.11.2026 08:00",
+ "son_tarama": "23.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "18.11.2026 14:00",
-   "toplam": 386,
-   "uyan": 0
-  },
   {
    "zaman": "18.11.2026 20:00",
    "toplam": 386,
@@ -210,6 +209,11 @@
    "zaman": "23.11.2026 08:00",
    "toplam": 362,
    "uyan": 7
+  },
+  {
+   "zaman": "23.11.2026 14:00",
+   "toplam": 381,
+   "uyan": 9
   }
  ],
  "onbellek": {
@@ -3326,12 +3330,48 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-23"
+  },
+  "14c586c191": {
+   "kat": "uyan",
+   "gerekce": "Lise mezunu kadrosu, bölüm şartı yok, ehliyet istemiyor. KPSS P94 (ortaöğretim) puanı isteyebilir, ilana bak. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "anı ve Dallarının veya Süs Bitkileri, Tarım, Tarım/Ziraat, Genel Ziraat, Ziraat, Tarım Teknolojileri, Makine-Tarım Teknolojisi, Tarım Teknolojisi, Peyzaj Bölümlerinin birinden mezun olmak veya herhangi bir ortaöğretim kurumundan mezun olup Bahçıvan mesleğinde en az üç yıl (1080 gün) çalışmış olduğunu belgelemek. (e-Dev",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "ac541c3861": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "ü Asgari KPSS Puanı Grup 1 Koruma ve Güvenlik Görevlisi Güvenlik; Güvenlik Bilimleri, Güvenlik Hizmetleri; Güvenlik ve Koruma, Kamu Güvenlik ve Asayişin Sağlanması; Özel Güvenlik ve Koruma, Savunma ve Güvenlik ön lisans programlarının birinden mezun olmak 3 12 KP",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "cf29295a8f": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ortaöğretim kurumlarının herhangi birinden mezun olmak. • Açık ve kapalı alanlardaki her tü",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "b68539dc10": {
+   "kat": "uyan",
+   "gerekce": "Lise mezunu kadrosu, bölüm şartı yok, ehliyet istemiyor. KPSS P94 (ortaöğretim) puanı isteyebilir, ilana bak. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "anı ve Dallarının veya Süs Bitkileri, Tarım, Tarım/Ziraat, Genel Ziraat, Ziraat, Tarım Teknolojileri, Makine-Tarım Teknolojisi, Tarım Teknolojisi, Peyzaj Bölümlerinin birinden mezun olmak veya herhangi bir ortaöğretim kurumundan mezun olup Bahçıvan mesleğinde en az üç yıl (1080 gün) çalışmış olduğunu belgelemek. (e-Dev",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-11T16:00:00+03:00",
+   "t": "2026-11-23"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 95
+   "sayi": 97
   },
   "iskur": {
    "ok": true,
@@ -3343,11 +3383,11 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 117
+   "sayi": 131
   },
   "kariyer": {
    "ok": true,
-   "sayi": 21
+   "sayi": 24
   },
   "resmi": {
    "ok": true,
