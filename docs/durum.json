@@ -124,16 +124,18 @@
   "709cfb3492": "2026-11-20",
   "675e2023aa": "2026-11-20",
   "953492cd94": "2026-11-20",
-  "800eff117d": "2026-11-20"
+  "800eff117d": "2026-11-20",
+  "f81dc1b56d": "2026-11-23",
+  "afe543088c": "2026-11-23",
+  "3de2756559": "2026-11-23",
+  "f96e095f82": "2026-11-23",
+  "5be6933d16": "2026-11-23",
+  "894b7090cc": "2026-11-23",
+  "5da7d7ba48": "2026-11-23"
  },
- "son_tarama": "22.11.2026 20:00",
+ "son_tarama": "23.11.2026 08:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "18.11.2026 08:00",
-   "toplam": 375,
-   "uyan": 0
-  },
   {
    "zaman": "18.11.2026 14:00",
    "toplam": 386,
@@ -203,6 +205,11 @@
    "zaman": "22.11.2026 20:00",
    "toplam": 370,
    "uyan": 6
+  },
+  {
+   "zaman": "23.11.2026 08:00",
+   "toplam": 362,
+   "uyan": 7
   }
  ],
  "onbellek": {
@@ -3139,12 +3146,192 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-22"
+  },
+  "f81dc1b56d": {
+   "kat": "uyan",
+   "gerekce": "Lise mezunu kadrosu, bölüm şartı yok, ehliyet istemiyor. KPSS P94 (ortaöğretim) puanı isteyebilir, ilana bak. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "anı ve Dallarının veya Süs Bitkileri, Tarım, Tarım/Ziraat, Genel Ziraat, Ziraat, Tarım Teknolojileri, Makine-Tarım Teknolojisi, Tarım Teknolojisi, Peyzaj Bölümlerinin birinden mezun olmak veya herhangi bir ortaöğretim kurumundan mezun olup Bahçıvan mesleğinde en az üç yıl (1080 gün) çalışmış olduğunu belgelemek. (e -De",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-11T23:59:00+03:00",
+   "t": "2026-11-23"
+  },
+  "afe543088c": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ortaöğretim kurumlarının herhangi birinden mezun olmak.  Açık ve kapalı alanlardaki her tü",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-27T23:59:00+03:00",
+   "t": "2026-11-23"
+  },
+  "e0fef37651": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-27T23:59:00+03:00",
+   "t": "2026-11-23"
+  },
+  "3de2756559": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "ü Asgari KPSS Puanı Grup 1 Koruma ve Güvenlik Görevlisi Güvenlik; Güvenlik Bilimleri, Güvenlik Hizmetleri; Güvenlik ve Koruma, Kamu Güvenlik ve Asayişin Sağlanması; Özel Güvenlik ve Koruma, Savunma ve Güvenlik ön lisans programlarının birinden mezun olmak 3 12 KP",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-07T23:59:00+03:00",
+   "t": "2026-11-23"
+  },
+  "f554a0a94d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-27T23:59:00+03:00",
+   "t": "2026-11-23"
+  },
+  "f96e095f82": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-07T23:59:00+03:00",
+   "t": "2026-11-23"
+  },
+  "a2cf5386e4": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "5be6933d16": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "c8082ffe7f": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "d9384cea5a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "894b7090cc": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "ü Asgari KPSS Puanı Grup 1 Koruma ve Güvenlik Görevlisi Güvenlik; Güvenlik Bilimleri, Güvenlik Hizmetleri; Güvenlik ve Koruma, Kamu Güvenlik ve Asayişin Sağlanması; Özel Güvenlik ve Koruma, Savunma ve Güvenlik ön lisans programlarının birinden mezun olmak 3 12 KP",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "b112cdebcc": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "326c2cd113": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "75131b39e9": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "f82d8f4b3a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "8f7979726e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "b0485804d6": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "5da7d7ba48": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ortaöğretim kurumlarının herhangi birinden mezun olmak. • Açık ve kapalı alanlardaki her tü",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "f34d9c2324": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
+  },
+  "c874ca668c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-23"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 90
+   "sayi": 95
   },
   "iskur": {
    "ok": true,
@@ -3156,15 +3343,15 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 122
+   "sayi": 117
   },
   "kariyer": {
    "ok": true,
-   "sayi": 23
+   "sayi": 21
   },
   "resmi": {
    "ok": true,
-   "sayi": 123
+   "sayi": 117
   }
  }
 }
