@@ -135,16 +135,12 @@
   "14c586c191": "2026-11-23",
   "ac541c3861": "2026-11-23",
   "cf29295a8f": "2026-11-23",
-  "b68539dc10": "2026-11-23"
+  "b68539dc10": "2026-11-23",
+  "7e9e9a66e2": "2026-11-24"
  },
- "son_tarama": "24.11.2026 08:00",
+ "son_tarama": "24.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "19.11.2026 14:00",
-   "toplam": 401,
-   "uyan": 0
-  },
   {
    "zaman": "19.11.2026 20:00",
    "toplam": 401,
@@ -213,6 +209,11 @@
   {
    "zaman": "24.11.2026 08:00",
    "toplam": 347,
+   "uyan": 9
+  },
+  {
+   "zaman": "24.11.2026 14:00",
+   "toplam": 358,
    "uyan": 9
   }
  ],
@@ -3456,16 +3457,25 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-24"
+  },
+  "7e9e9a66e2": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ön Lisans programlarından mezun olmak şarttır. BAŞVURU ÇIN GEREKLİ BELGELER Başvurular yu",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-11-29T23:59:00+03:00",
+   "t": "2026-11-24"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 86
+   "sayi": 89
   },
   "iskur": {
    "ok": true,
-   "sayi": 11
+   "sayi": 12
   },
   "yerel": {
    "ok": true,
@@ -3473,11 +3483,11 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 115
+   "sayi": 121
   },
   "kariyer": {
    "ok": true,
-   "sayi": 23
+   "sayi": 24
   },
   "resmi": {
    "ok": true,
