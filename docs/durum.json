@@ -138,14 +138,9 @@
   "b68539dc10": "2026-11-23",
   "7e9e9a66e2": "2026-11-24"
  },
- "son_tarama": "24.11.2026 20:00",
+ "son_tarama": "25.11.2026 11:58",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "20.11.2026 08:00",
-   "toplam": 403,
-   "uyan": 3
-  },
   {
    "zaman": "20.11.2026 14:00",
    "toplam": 420,
@@ -214,6 +209,11 @@
   {
    "zaman": "24.11.2026 20:00",
    "toplam": 361,
+   "uyan": 9
+  },
+  {
+   "zaman": "25.11.2026 11:58",
+   "toplam": 368,
    "uyan": 9
   }
  ],
@@ -3475,6 +3475,114 @@
    "v": 6,
    "bit": "2026-12-02T23:59:00+03:00",
    "t": "2026-11-24"
+  },
+  "c393611de3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "3211137082": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "1954144f5c": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "8eba29ac86": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "b79ddaa15e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "680191b664": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "4b60ec852b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "a0024070c0": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "94d7844174": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "7dd7fcd74a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "114858419a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
+  },
+  "f84894742b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-25"
   }
  },
  "kaynaklar": {
@@ -3492,7 +3600,7 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 121
+   "sayi": 120
   },
   "kariyer": {
    "ok": true,
@@ -3500,7 +3608,7 @@
   },
   "resmi": {
    "ok": true,
-   "sayi": 111
+   "sayi": 119
   }
  }
 }
