@@ -138,16 +138,12 @@
   "b68539dc10": "2026-11-23",
   "7e9e9a66e2": "2026-11-24",
   "de2d5f4f4f": "2026-11-26",
-  "f63e6ebc65": "2026-11-26"
+  "f63e6ebc65": "2026-11-26",
+  "939ee5c658": "2026-11-26"
  },
- "son_tarama": "26.11.2026 08:00",
+ "son_tarama": "26.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "21.11.2026 14:00",
-   "toplam": 384,
-   "uyan": 6
-  },
   {
    "zaman": "21.11.2026 20:00",
    "toplam": 384,
@@ -216,6 +212,11 @@
   {
    "zaman": "26.11.2026 08:00",
    "toplam": 366,
+   "uyan": 9
+  },
+  {
+   "zaman": "26.11.2026 14:00",
+   "toplam": 390,
    "uyan": 9
   }
  ],
@@ -3765,16 +3766,43 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-26"
+  },
+  "e446ebef21": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İzmir",
+   "v": 6,
+   "bit": "2026-11-30T23:59:00+03:00",
+   "t": "2026-11-26"
+  },
+  "2b7256cd5a": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "939ee5c658": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ortaöğretim (Lise ve Dengi) mezunu olmak. • G sınıfı sürücü belgesine sahip olmak ve sürücü",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 88
+   "sayi": 96
   },
   "iskur": {
    "ok": true,
-   "sayi": 14
+   "sayi": 15
   },
   "yerel": {
    "ok": true,
@@ -3782,7 +3810,7 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 112
+   "sayi": 127
   },
   "kariyer": {
    "ok": true,
