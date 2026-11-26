@@ -136,16 +136,13 @@
   "ac541c3861": "2026-11-23",
   "cf29295a8f": "2026-11-23",
   "b68539dc10": "2026-11-23",
-  "7e9e9a66e2": "2026-11-24"
+  "7e9e9a66e2": "2026-11-24",
+  "de2d5f4f4f": "2026-11-26",
+  "f63e6ebc65": "2026-11-26"
  },
- "son_tarama": "25.11.2026 20:00",
+ "son_tarama": "26.11.2026 08:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "21.11.2026 08:00",
-   "toplam": 384,
-   "uyan": 6
-  },
   {
    "zaman": "21.11.2026 14:00",
    "toplam": 384,
@@ -214,6 +211,11 @@
   {
    "zaman": "25.11.2026 20:00",
    "toplam": 370,
+   "uyan": 9
+  },
+  {
+   "zaman": "26.11.2026 08:00",
+   "toplam": 366,
    "uyan": 9
   }
  ],
@@ -3592,16 +3594,187 @@
    "v": 6,
    "bit": "2026-12-03T23:59:00+03:00",
    "t": "2026-11-25"
+  },
+  "de2d5f4f4f": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ortaöğretim (Lise ve Dengi) mezunu olmak.  G sınıfı sürücü belgesine sahip olmak ve sürücü",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-11-30T23:59:00+03:00",
+   "t": "2026-11-26"
+  },
+  "e169ed090d": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "039d4abf5b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "3af06104dd": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "0e3aa475e8": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "61deafbcbe": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "9fbea5f79e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "61e6c16361": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "9f5e508e46": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "44d633865e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "acdbfc7f40": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "f63e6ebc65": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise mezunu geçiyor ama KPSS tablosu yok (işçi alımı olabilir). Şartları açıp bakmak lazım.",
+   "ayrinti": "Ortaöğretim (Lise ve Dengi) mezunu olmak. • G sınıfı sürücü belgesine sahip olmak ve sürücü",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "26e0f8ef49": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "37d456c62b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "20fe3bdc56": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "60aeaa5cf1": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "755f3c6b62": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "0f7f96f269": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
+  },
+  "cb557682cd": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-26"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 90
+   "sayi": 88
   },
   "iskur": {
    "ok": true,
-   "sayi": 15
+   "sayi": 14
   },
   "yerel": {
    "ok": true,
@@ -3609,7 +3782,7 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 120
+   "sayi": 112
   },
   "kariyer": {
    "ok": true,
@@ -3617,7 +3790,7 @@
   },
   "resmi": {
    "ok": true,
-   "sayi": 119
+   "sayi": 126
   }
  }
 }
