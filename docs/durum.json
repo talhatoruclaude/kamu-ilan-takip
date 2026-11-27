@@ -144,16 +144,12 @@
   "5979d92da4": "2026-11-27",
   "d656fa2bb6": "2026-11-27",
   "28d20989b9": "2026-11-27",
-  "e04a2d512b": "2026-11-27"
+  "e04a2d512b": "2026-11-27",
+  "a2b31c94f3": "2026-11-27"
  },
- "son_tarama": "27.11.2026 08:00",
+ "son_tarama": "27.11.2026 14:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "22.11.2026 14:00",
-   "toplam": 370,
-   "uyan": 6
-  },
   {
    "zaman": "22.11.2026 20:00",
    "toplam": 370,
@@ -222,6 +218,11 @@
   {
    "zaman": "27.11.2026 08:00",
    "toplam": 391,
+   "uyan": 9
+  },
+  {
+   "zaman": "27.11.2026 14:00",
+   "toplam": 400,
    "uyan": 9
   }
  ],
@@ -3969,12 +3970,30 @@
    "v": 6,
    "bit": "",
    "t": "2026-11-27"
+  },
+  "a2b31c94f3": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "1bea8a4538": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-14T23:59:00+03:00",
+   "t": "2026-11-27"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 102
+   "sayi": 104
   },
   "iskur": {
    "ok": true,
@@ -3986,11 +4005,11 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 121
+   "sayi": 129
   },
   "kariyer": {
    "ok": true,
-   "sayi": 26
+   "sayi": 25
   },
   "resmi": {
    "ok": true,
