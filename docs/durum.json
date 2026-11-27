@@ -145,16 +145,19 @@
   "d656fa2bb6": "2026-11-27",
   "28d20989b9": "2026-11-27",
   "e04a2d512b": "2026-11-27",
-  "a2b31c94f3": "2026-11-27"
+  "a2b31c94f3": "2026-11-27",
+  "1dcfdf39fb": "2026-11-27",
+  "b315c45db3": "2026-11-27",
+  "fecf45c8e5": "2026-11-27",
+  "c5f08e48b5": "2026-11-27",
+  "e7068aa9aa": "2026-11-27",
+  "d9406804b0": "2026-11-27",
+  "10b63996e0": "2026-11-27",
+  "717e8bc1ca": "2026-11-27"
  },
- "son_tarama": "27.11.2026 14:00",
+ "son_tarama": "27.11.2026 20:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "22.11.2026 20:00",
-   "toplam": 370,
-   "uyan": 6
-  },
   {
    "zaman": "23.11.2026 08:00",
    "toplam": 362,
@@ -224,6 +227,11 @@
    "zaman": "27.11.2026 14:00",
    "toplam": 400,
    "uyan": 9
+  },
+  {
+   "zaman": "27.11.2026 20:00",
+   "toplam": 411,
+   "uyan": 13
   }
  ],
  "onbellek": {
@@ -3988,16 +3996,106 @@
    "v": 6,
    "bit": "2026-12-14T23:59:00+03:00",
    "t": "2026-11-27"
+  },
+  "1dcfdf39fb": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "(A) bendinde yer alan genel şartları taşımak, - 01.01.2026 tarihi itibarıyla 35 ( otuz beş) yaşını doldurmamış olmak (01.01.19 91 tarih ve sonraki doğumlular başvurabilecektir.), - Ortaöğretim kurumlarının herhangi bir alanından mezun olmak, - ÖSYM taraf",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-12-09T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "b315c45db3": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "olmak (01.01.19 91 tarih ve sonraki doğumlular başvurabilecektir.), - Üniversitelerin Otobüs Şoförlüğü (Kaptanlık), Otobüs Şoförlüğü, Otobüs Kaptanlığı ön lisans programlarının herhangi birinden mezun olmak, - ÖSYM tarafından 202 6 yılında yapılan Kamu Personeli Seçme Sınavına (KPSS Ön Lisans) katılmış ve KPSS P93 puan",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-12-09T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "fecf45c8e5": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "ldurmamış olmak (01.01.19 91 tarih ve sonraki doğumlular başvurabilecektir.), - Üniversitelerin; Özel Güvenlik ve Koruma, Savunma ve Güvenlik, Güvenlik ön lisans programlarının herhangi birinden mezun olmak, - ÖSYM tarafından 202 6 yılında yapılan Kamu Personeli Seçme Sınavına (KPSS Ön Lisans) katılmış ve KPSS P93 puan",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-12-09T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "c5f08e48b5": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "uan almış olmak, - Süresi içinde başvuru yapmış olmak. Özel Şartlar - Tekniker (Elektrik) pozisyonu için; Elektrik, Elektrik -Elektronik Teknolojisi, Endüstriyel Otomasyon Teknolojileri, Endüstriyel Elektronik ön lisans programlarının birinden mezun olmak, - Tekn",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-12-09T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "4527f0f078": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-12-03T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "e29bd65e21": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-31T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "e7068aa9aa": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "in (A) bendinde yer alan genel şartları taşımak, - 01.01.2026 tarihi itibarıyla 35 (otuz beş) yaşını doldurmamış olmak (01.01.1991 tarih ve sonraki doğumlular başvurabilecektir.), - Ortaöğretim kurumlarının herhangi bir alanından mezun olmak, - ÖSYM taraf",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-09T17:00:00+03:00",
+   "t": "2026-11-27"
+  },
+  "d9406804b0": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "ş olmak (01.01.1991 tarih ve sonraki doğumlular başvurabilecektir.), - Üniversitelerin Otobüs Şoförlüğü (Kaptanlık), Otobüs Şoförlüğü, Otobüs Kaptanlığı ön lisans programlarının herhangi birinden mezun olmak, - ÖSYM tarafından 2026 yılında yapılan Kamu Personeli Seçme Sınavına (KPSS Ön Lisans) katılmış ve KPSS P93 puan",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-09T17:00:00+03:00",
+   "t": "2026-11-27"
+  },
+  "10b63996e0": {
+   "kat": "uyan",
+   "gerekce": "Önlisans kadrosu, bölüm şartı yok, ehliyet istemiyor. Ek şart var (yaş / sertifika / tecrübe gibi), ilandaki ilgili kısmı oku.",
+   "ayrinti": "doldurmamış olmak (01.01.1991 tarih ve sonraki doğumlular başvurabilecektir.), - Üniversitelerin; Özel Güvenlik ve Koruma, Savunma ve Güvenlik, Güvenlik ön lisans programlarının herhangi birinden mezun olmak, - ÖSYM tarafından 2026 yılında yapılan Kamu Personeli Seçme Sınavına (KPSS Ön Lisans) katılmış ve KPSS P93 puan",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-09T17:00:00+03:00",
+   "t": "2026-11-27"
+  },
+  "717e8bc1ca": {
+   "kat": "elenen",
+   "gerekce": "Önlisans / lise kadroları belirli bölümlerden mezun istiyor, bölümsüz kadro yok.",
+   "ayrinti": "puan almış olmak, - Süresi içinde başvuru yapmış olmak. Özel Şartlar - Tekniker (Elektrik) pozisyonu için; Elektrik, Elektrik-Elektronik Teknolojisi, Endüstriyel Otomasyon Teknolojileri, Endüstriyel Elektronik ön lisans programlarının birinden mezun olmak, - Tekn",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-09T17:00:00+03:00",
+   "t": "2026-11-27"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 104
+   "sayi": 109
   },
   "iskur": {
    "ok": true,
-   "sayi": 12
+   "sayi": 14
   },
   "yerel": {
    "ok": true,
@@ -4009,7 +4107,7 @@
   },
   "kariyer": {
    "ok": true,
-   "sayi": 25
+   "sayi": 29
   },
   "resmi": {
    "ok": true,
