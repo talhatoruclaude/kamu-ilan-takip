@@ -140,16 +140,15 @@
   "de2d5f4f4f": "2026-11-26",
   "f63e6ebc65": "2026-11-26",
   "939ee5c658": "2026-11-26",
-  "6c225406dd": "2026-11-26"
+  "6c225406dd": "2026-11-26",
+  "5979d92da4": "2026-11-27",
+  "d656fa2bb6": "2026-11-27",
+  "28d20989b9": "2026-11-27",
+  "e04a2d512b": "2026-11-27"
  },
- "son_tarama": "26.11.2026 20:00",
+ "son_tarama": "27.11.2026 08:00",
  "osym_tercih": false,
  "gecmis": [
-  {
-   "zaman": "22.11.2026 08:00",
-   "toplam": 369,
-   "uyan": 6
-  },
   {
    "zaman": "22.11.2026 14:00",
    "toplam": 370,
@@ -218,6 +217,11 @@
   {
    "zaman": "26.11.2026 20:00",
    "toplam": 390,
+   "uyan": 9
+  },
+  {
+   "zaman": "27.11.2026 08:00",
+   "toplam": 391,
    "uyan": 9
   }
  ],
@@ -3803,16 +3807,178 @@
    "v": 6,
    "bit": "2026-11-30T23:59:00+03:00",
    "t": "2026-11-26"
+  },
+  "5979d92da4": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-14T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "6c5a20b70e": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "2026-12-14T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "2013c2c5e3": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "2026-12-25T23:59:00+03:00",
+   "t": "2026-11-27"
+  },
+  "fa90fdf3ab": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "d656fa2bb6": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "7573328dab": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "9037e00f9b": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "b8edf82471": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "444b7b1619": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "96a6bc80ea": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "28d20989b9": {
+   "kat": "kontrol",
+   "gerekce": "Önlisans / lise kadrosu var ama bölüm şartı metinden çıkarılamadı. Açıp bakmak lazım.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "4979439719": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "e8a57f2eff": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "İstanbul",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "29b88e70e5": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "7342586c15": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "920c4887db": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "e04a2d512b": {
+   "kat": "kontrol",
+   "gerekce": "İlan metni otomatik okunamadı (resim PDF ya da ek dosya). Açıp gözle bakılmalı.",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
+  },
+  "81c01cbfbf": {
+   "kat": "kapali",
+   "gerekce": "",
+   "ayrinti": "",
+   "sehir": "",
+   "v": 6,
+   "bit": "",
+   "t": "2026-11-27"
   }
  },
  "kaynaklar": {
   "kamuilan": {
    "ok": true,
-   "sayi": 96
+   "sayi": 102
   },
   "iskur": {
    "ok": true,
-   "sayi": 15
+   "sayi": 12
   },
   "yerel": {
    "ok": true,
@@ -3820,15 +3986,15 @@
   },
   "ilangov": {
    "ok": true,
-   "sayi": 127
+   "sayi": 121
   },
   "kariyer": {
    "ok": true,
-   "sayi": 25
+   "sayi": 26
   },
   "resmi": {
    "ok": true,
-   "sayi": 126
+   "sayi": 129
   }
  }
 }
